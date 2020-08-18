@@ -55,3 +55,4 @@ The changes since submitting this project are:
 - Moving code out of a single file (since we had to submit the code in one file)
 - Fixed error when attempting to save a replay when the `Replays` folder doesn't exist
 - Fixed custom font not working working if it is not manually installed
+- Added an executable file to run the game
