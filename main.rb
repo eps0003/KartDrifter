@@ -13,7 +13,7 @@ require "./util.rb"
 
 DEFAULT_WIDTH = 1280
 DEFAULT_HEIGHT = 720
-FONT_NAME = "Newsflash BB"
+FONT_NAME = "Fonts/newsflash-bb.regular.ttf"
 
 class Game < Gosu::Window
   def initialize
